@@ -8,7 +8,7 @@ Skills: SQL / Postman / Android Studio / DevTools / TestRail / JIRA / Charles / 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaryaLyasovich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daryaliasovich//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaryaLyasovich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daryaliasovich/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaLyasovich&show_icons=true)  
 
